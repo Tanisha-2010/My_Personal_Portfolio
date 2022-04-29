@@ -1,0 +1,67 @@
+#applab {
+    background-color: aliceblue;
+}
+
+#games {
+    background-color: #FF80AB;
+}
+
+#chatBot {
+    background-color: #E1BEE7;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    margin-top: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cornflowerblue;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#games img {
+    width: 350px;
+    height: 510px;
+    display: inline;
+}
